@@ -4,8 +4,13 @@ class Solution {
         
         int sheep = 12000;
         int drink = 2000;
-        
-        answer = sheep*n + (k- (n/10)) *drink;
+
+        if (n % 10 == 0) {
+            System.out.println(n/10);
+            answer = sheep*n + (k - (n / 10)) * drink;
+        } else {
+            answer = sheep * n + drink * k;
+        }
     
         return answer;
     }
