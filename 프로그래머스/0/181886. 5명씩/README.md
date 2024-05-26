@@ -1,10 +1,10 @@
 # [level 0] 5명씩 - 181886 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181886?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181886?language=java) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.06 ms
+메모리: 70.6 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 26일 21:54:40
+2024년 05월 26일 21:58:40
 
 ### 문제 설명
 
