@@ -1,10 +1,10 @@
 # [level 0] 순서 바꾸기 - 181891 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181891) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181891?language=java) 
 
 ### 성능 요약
 
-메모리: 33.2 MB, 시간: 0.13 ms
+메모리: 73 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 27일 00:00:57
+2024년 05월 27일 00:02:30
 
 ### 문제 설명
 
